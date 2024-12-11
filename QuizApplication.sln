@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizApplication", "QuizApplication\QuizApplication.csproj", "{A6F6AB22-565B-4EE7-84C4-1586A6D1D8FF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizForServer", "QuizForServer\QuizForServer.csproj", "{CA9B341B-631D-4F56-8841-DE0AFAD9A904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6F6AB22-565B-4EE7-84C4-1586A6D1D8FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F6AB22-565B-4EE7-84C4-1586A6D1D8FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F6AB22-565B-4EE7-84C4-1586A6D1D8FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F6AB22-565B-4EE7-84C4-1586A6D1D8FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA9B341B-631D-4F56-8841-DE0AFAD9A904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA9B341B-631D-4F56-8841-DE0AFAD9A904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA9B341B-631D-4F56-8841-DE0AFAD9A904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA9B341B-631D-4F56-8841-DE0AFAD9A904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {568368A6-EB6F-420E-8ADC-9DA5327A8826}
+	EndGlobalSection
+EndGlobal

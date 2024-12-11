@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\QuizApplication\QuizForServer\bin\Debug\net8.0-windows\QuizForServer.exe
+C:\Users\ADMIN\source\repos\QuizApplication\QuizForServer\bin\Debug\net8.0-windows\QuizForServer.deps.json
+C:\Users\ADMIN\source\repos\QuizApplication\QuizForServer\bin\Debug\net8.0-windows\QuizForServer.runtimeconfig.json
+C:\Users\ADMIN\source\repos\QuizApplication\QuizForServer\bin\Debug\net8.0-windows\QuizForServer.dll
+C:\Users\ADMIN\source\repos\QuizApplication\QuizForServer\bin\Debug\net8.0-windows\QuizForServer.pdb
+C:\Users\ADMIN\source\repos\QuizApplication\QuizForServer\obj\Debug\net8.0-windows\QuizForServer.Form1.resources
+C:\Users\ADMIN\source\repos\QuizApplication\QuizForServer\obj\Debug\net8.0-windows\QuizForServer.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\QuizApplication\QuizForServer\obj\Debug\net8.0-windows\QuizForServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\QuizApplication\QuizForServer\obj\Debug\net8.0-windows\QuizForServer.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\QuizApplication\QuizForServer\obj\Debug\net8.0-windows\QuizForServer.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\QuizApplication\QuizForServer\obj\Debug\net8.0-windows\QuizForServer.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\QuizApplication\QuizForServer\obj\Debug\net8.0-windows\QuizForServer.dll
+C:\Users\ADMIN\source\repos\QuizApplication\QuizForServer\obj\Debug\net8.0-windows\refint\QuizForServer.dll
+C:\Users\ADMIN\source\repos\QuizApplication\QuizForServer\obj\Debug\net8.0-windows\QuizForServer.pdb
+C:\Users\ADMIN\source\repos\QuizApplication\QuizForServer\obj\Debug\net8.0-windows\QuizForServer.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\QuizApplication\QuizForServer\obj\Debug\net8.0-windows\ref\QuizForServer.dll
